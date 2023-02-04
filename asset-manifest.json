@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/leadzen/static/css/main.e34a815f.css",
-    "main.js": "/leadzen/static/js/main.79a5cc37.js",
+    "main.js": "/leadzen/static/js/main.79247498.js",
     "static/js/787.4e6b76cc.chunk.js": "/leadzen/static/js/787.4e6b76cc.chunk.js",
     "index.html": "/leadzen/index.html",
     "main.e34a815f.css.map": "/leadzen/static/css/main.e34a815f.css.map",
-    "main.79a5cc37.js.map": "/leadzen/static/js/main.79a5cc37.js.map",
+    "main.79247498.js.map": "/leadzen/static/js/main.79247498.js.map",
     "787.4e6b76cc.chunk.js.map": "/leadzen/static/js/787.4e6b76cc.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e34a815f.css",
-    "static/js/main.79a5cc37.js"
+    "static/js/main.79247498.js"
   ]
 }
